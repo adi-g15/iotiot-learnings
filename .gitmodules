@@ -1,3 +1,9 @@
-[submodule "temporary_forks/module-1"]
-	path = temporary_forks/module-1
+[submodule "orientation/modules/module-1"]
+	path = orientation/modules/module-1
 	url = https://gitlab.iotiot.in/CIIOT21OCT5001/module-1
+[submodule "orientation/modules/module-2"]
+	path = orientation/modules/module-2
+	url = https://gitlab.iotiot.in/CIIOT21OCT5001/module-2
+[submodule "orientation/modules/module-3"]
+	path = orientation/modules/module-3
+	url = https://gitlab.iotiot.in/CIIOT21OCT5001/module-3
