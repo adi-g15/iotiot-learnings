@@ -1,0 +1,3 @@
+[submodule "temporary_forks/module-1"]
+	path = temporary_forks/module-1
+	url = https://gitlab.iotiot.in/CIIOT21OCT5001/module-1
