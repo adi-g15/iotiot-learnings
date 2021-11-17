@@ -7,3 +7,6 @@
 [submodule "orientation/modules/module-3"]
 	path = orientation/modules/module-3
 	url = https://gitlab.iotiot.in/CIIOT21OCT5001/module-3
+[submodule "orientation/modules/module-4"]
+	path = orientation/modules/module-4
+	url = https://gitlab.iotiot.in/CIIOT21OCT5001/module-4
